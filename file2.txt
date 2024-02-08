@@ -1,1 +1,2 @@
 This is just a txt file
+Updating the content of the file and trying to push it again in a different branch
